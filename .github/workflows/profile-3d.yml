@@ -11,5 +11,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
