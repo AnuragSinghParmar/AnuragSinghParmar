@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="1919" height="978" alt="image" src="https://github.com/user-attachments/assets/27daafb0-c103-439e-8473-eb0601b6d525" />## Hi there 👋
 
 <!--
 **AnuragSinghParmar/AnuragSinghParmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://raw.githubusercontent.com/AnuragSinghParmar/AnuragSinghParmar/main/profile-3d-contrib/profile-green-animate.svg" />
